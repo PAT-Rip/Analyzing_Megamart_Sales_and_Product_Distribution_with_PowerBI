@@ -32,7 +32,7 @@ A comprehensive dashboard created using **Power BI**, highlighting:
 ## 📊 Data Source
 
 - **Dataset name:** Superstore Sales  
-- **Source:** [Kaggle](https://www.kaggle.com/)  
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)  
 - **Size:** ~9,000 rows × 18 columns  
 - The dataset includes details such as order dates, regions, sales, profit, shipping method, and product categories.
 
